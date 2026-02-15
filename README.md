@@ -1,16 +1,4 @@
-## Hi there 👋
-
-<!--
-**Dayanenasci/Dayanenasci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...# 👩🏽‍💻 Olá, eu sou a Dayane
+# 👩🏽‍💻 Olá, eu sou a Dayane
 
 Sou Engenheira de Dados em evolução, com foco em organização, rastreabilidade e construção de soluções estruturadas.
 
@@ -60,6 +48,3 @@ Simulação de pipeline completo com ETL, modelagem dimensional e consultas anal
 ## 🎯 Objetivo Profissional
 
 Construir soluções de dados confiáveis, organizadas e escaláveis, com foco em clareza técnica e geração de valor para o negócio.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
